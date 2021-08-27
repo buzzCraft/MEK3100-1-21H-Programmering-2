@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math.h>
+#include <math.h> // math fuctions for task 3 and 4
 using namespace std;
 
 // Input func
